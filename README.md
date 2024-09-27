@@ -64,7 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributors
 
-- Harsh Kumar(https://github.com/ankitnagal)
+- Harsh Kumar(https://github.com/harshnagal)
 
 Feel free to contribute to this project by creating pull requests or reporting issues. 
 
