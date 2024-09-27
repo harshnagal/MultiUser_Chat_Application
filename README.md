@@ -64,7 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributors
 
-- Aman Singh(https://github.com/prime-rog)
+- Harsh Kumar(https://github.com/ankitnagal)
 
 Feel free to contribute to this project by creating pull requests or reporting issues. 
 
